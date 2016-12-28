@@ -9,6 +9,7 @@ package edu.up.cs371.primetester;
 public class PrimeTester {
     /**
      * Tells whether an integer is prime.
+     * resource: http://www.java67.com/2014/01/how-to-check-if-given-number-is-prime.html
      *
      * @param n the number to test
      * @return true iff n is prime
